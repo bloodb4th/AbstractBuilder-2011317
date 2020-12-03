@@ -1,4 +1,4 @@
-NAIST is a very good place to study information science.
+NAIST is a very good place to study Information Science.
 It is well-established that the students really enthusiastic to study here. This study aims to determine how good NAIST is. Specifically, it investigates whether people love NAIST or not. 
 
 
