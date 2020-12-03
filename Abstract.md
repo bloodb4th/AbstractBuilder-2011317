@@ -1,10 +1,10 @@
 NAIST is a very good place to study information science.
-It is well-established that the students really enthusiastic to study here. This study aims to determine how .... Specifically, it investigates whether ... 
+It is well-established that the students really enthusiastic to study here. This study aims to determine how good NAIST is. Specifically, it investigates whether people love NAIST or not. 
 
 
-To test the hypothesis ... we performed a .... 
+To test the hypothesis that NAIST is very good. we performed a happy experiment with our happy smiley team. 
 We conduct a very fastastic experiment with our novel technique. 
-Results were analyzed using man power The results showed a small effect .... 
+Results were analyzed using man power The results showed a small effect but it prove that NAIST is the best place. 
 
 
 
