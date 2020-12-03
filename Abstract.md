@@ -1,9 +1,9 @@
-NAIST is a very happy place to study ...
+NAIST is a very happy place to study Data Science
 
 It is well-established that every students graduate with very successful and perfect jobs. This study aims to determine how .... Specifically, it investigates whether ... 
 
 To test the hypothesis that NAIST is good we performed a very wonderful experiment.
-We conduct...
+We conduct an accurate social experiment
 Results were analyzed using a very good method for analysis. The results showed a small effect on vulnerabilities so it means the results came out really good. 
 
 These results suggest that we can do anything We recommend that .... That is why NAIST is very comfortable to study... Tor is a very good friend. Good man, good buddy, excellent classmate, 
