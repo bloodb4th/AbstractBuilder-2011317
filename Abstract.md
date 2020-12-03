@@ -6,4 +6,4 @@ To test the hypothesis that NAIST is good we performed a very wonderful experime
 We conduct...
 Results were analyzed using a very good method for analysis. The results showed a small effect on vulnerabilities so it means the results came out really good. 
 
-These results suggest that ... We recommend that .... That is why NAIST is very comfortable to study... Tor is a very good friend. Good man, good buddy, excellent classmate, 
+These results suggest that we can do anything We recommend that .... That is why NAIST is very comfortable to study... Tor is a very good friend. Good man, good buddy, excellent classmate, 
